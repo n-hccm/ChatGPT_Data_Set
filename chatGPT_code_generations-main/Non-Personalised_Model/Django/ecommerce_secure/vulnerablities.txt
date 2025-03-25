@@ -1,0 +1,9 @@
+no authentication
+no authorisation
+no input validation
+no input sanistation - sql injection, xss, csrf
+no https enforcement, mitm
+no rate limiting
+brute forcable
+no error handling
+no encryption

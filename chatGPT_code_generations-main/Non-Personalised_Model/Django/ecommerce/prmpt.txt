@@ -1,0 +1,1 @@
+create a secure basic django e-commerce website, show me the main files. use points as the currency in this example.

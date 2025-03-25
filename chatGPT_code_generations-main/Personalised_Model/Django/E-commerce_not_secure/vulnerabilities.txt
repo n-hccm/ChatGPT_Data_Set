@@ -1,0 +1,9 @@
+no authentication
+no authorisation
+no input validation
+no sanitisation
+no https
+no rate limiting
+bruteforcable
+no error handling
+no encyrpiton

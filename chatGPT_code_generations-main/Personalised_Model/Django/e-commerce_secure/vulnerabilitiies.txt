@@ -1,0 +1,12 @@
+no authentication
+no authorisation
+no csrf protection
+no input validation
+no input sanitisation
+no rate limting for requests
+no bruteforce protection
+no security headers
+no https
+no secure cookies
+no error handling
+no auth rate limiting

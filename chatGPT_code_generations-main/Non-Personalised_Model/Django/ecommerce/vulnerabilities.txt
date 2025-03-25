@@ -1,0 +1,10 @@
+no authentication and and authorisation. carts can be modified by other users
+no csrf protection for forms
+no input validation
+no input sanitisation - both cause unexpected errors
+  no rate limtiing for requests or authentication.
+  no brute force protection
+no security headers
+  no https and secure cookies. mitm
+poor error handling
+no length limiting
