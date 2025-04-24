@@ -1,0 +1,1 @@
+The repository storing the files for the initial research covered in my final year project. This repository will be privated sometime in May and will be replaced with the final research project repository instead. 
